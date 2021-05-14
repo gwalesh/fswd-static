@@ -1,0 +1,25 @@
+.btn-thm{
+    background-color: rebeccapurple;
+    color: white;
+    padding: 30px;
+    border-radius: 30%;
+    font-weight: bold;
+}
+
+.sticky-img{
+    background-image: url(../img/2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 100px;
+    background-attachment: fixed;
+}
+.navbar{
+    overflow: hidden;
+}
+
+.sticky{
+    position:fixed;
+    top: 0;
+    width: 100%;
+}
